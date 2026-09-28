@@ -1,7 +1,7 @@
 class Solution:
     def kidsWithCandies(self, candies: list[int], extraCandies: int) -> list[bool]:
         ans = []
-        for i,candy in enumerate(candies):
+        for candy in candies:
             og = candies
             candy+=extraCandies
             if candy >= max(og):
