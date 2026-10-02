@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anu-rag-007/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
