@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/anu-rag-007/LEET_CODE/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/anu-rag-007/LEET_CODE/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
