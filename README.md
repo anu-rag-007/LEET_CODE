@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anu-rag-007/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anu-rag-007/LEET_CODE/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Stack
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0022-generate-parentheses) |
 | [0709-to-lower-case](https://github.com/anu-rag-007/LEET_CODE/tree/master/0709-to-lower-case) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/anu-rag-007/LEET_CODE/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
