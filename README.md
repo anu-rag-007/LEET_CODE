@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anu-rag-007/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu-rag-007/LEET_CODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
