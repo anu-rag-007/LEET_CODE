@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anu-rag-007/LEET_CODE/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/anu-rag-007/LEET_CODE/tree/master/2235-add-two-integers) |
+| [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/anu-rag-007/LEET_CODE/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
@@ -114,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
+| [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
