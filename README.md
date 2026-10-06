@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0283-move-zeroes) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
