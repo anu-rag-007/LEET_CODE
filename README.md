@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 ## Math
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 ## Quicksort
 |  |
