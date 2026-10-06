@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anu-rag-007/LEET_CODE/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Stack
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1929-concatenation-of-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 ## Quicksort
 |  |
