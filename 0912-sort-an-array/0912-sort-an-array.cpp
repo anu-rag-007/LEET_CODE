@@ -1,29 +1,32 @@
 class Solution {
 public:
-    void heapify(vector<int>& nums,int n,int i){
-        int largest = i;
-        int left = 2*i+1;
-        int right = 2*i+2;
-        if(left < n && nums[left]>nums[largest]){
-            largest = left;
+    int partition(vector<int>& nums, int l, int h) {
+        int pivot = nums[l];
+        int i = l - 1;
+        int j = h + 1;
+        while(true) {
+            do {
+                i++;
+            } while(nums[i] < pivot);
+            do {
+                j--;
+            } while(nums[j] > pivot);
+            if(i >= j) {
+                return j;
+            }
+            swap(nums[i], nums[j]);
         }
-        if(right < n && nums[right]>nums[largest]){
-            largest = right;
-        }
-        if(largest!=i){
-            swap(nums[i],nums[largest]);
-            heapify(nums,n,largest);
+    }
+    void quicksort(vector<int>& nums,int l,int h){
+        if(l<h){
+            int pivotIndex = partition(nums,l,h);
+            quicksort(nums,l,pivotIndex);
+            quicksort(nums,pivotIndex+1,h);
         }
     }
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
-        for(int i=n/2-1;i>=0;i--){
-            heapify(nums,n,i);
-        }
-        for(int i=n-1;i>0;i--){
-            swap(nums[0],nums[i]);
-            heapify(nums,i,0);
-        }
+        quicksort(nums,0,n-1);
         return nums;
     }
 };
