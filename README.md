@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu-rag-007/LEET_CODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0022-generate-parentheses) |
+| [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/anu-rag-007/LEET_CODE/tree/master/0709-to-lower-case) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/anu-rag-007/LEET_CODE/tree/master/3019-number-of-changing-keys) |
