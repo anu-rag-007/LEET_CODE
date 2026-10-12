@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anu-rag-007/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -170,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
