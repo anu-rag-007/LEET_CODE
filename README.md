@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anu-rag-007/LEET_CODE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anu-rag-007/LEET_CODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anu-rag-007/LEET_CODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anu-rag-007/LEET_CODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
