@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anu-rag-007/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/anu-rag-007/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
