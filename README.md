@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anu-rag-007/LEET_CODE/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anu-rag-007/LEET_CODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anu-rag-007/LEET_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 ## Matrix
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anu-rag-007/LEET_CODE/tree/master/0141-linked-list-cycle) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anu-rag-007/LEET_CODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
