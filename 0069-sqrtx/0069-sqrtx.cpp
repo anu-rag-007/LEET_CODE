@@ -6,7 +6,7 @@ public:
         int ans = 0;
         while(low <= high){
             int mid = low+(high-low) / 2;
-            if(mid==0 || mid <= x/mid){
+            if(1LL*mid*mid <= x){
                 ans = mid;
                 low = mid + 1;
             } 
