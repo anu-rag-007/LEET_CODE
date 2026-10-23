@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu-rag-007/LEET_CODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
