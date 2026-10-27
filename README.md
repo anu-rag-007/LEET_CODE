@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anu-rag-007/LEET_CODE/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu-rag-007/LEET_CODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/anu-rag-007/LEET_CODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/anu-rag-007/LEET_CODE/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/anu-rag-007/LEET_CODE/tree/master/0709-to-lower-case) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
