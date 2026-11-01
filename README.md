@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1859-sorting-the-sentence) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/anu-rag-007/LEET_CODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anu-rag-007/LEET_CODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anu-rag-007/LEET_CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/anu-rag-007/LEET_CODE/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/anu-rag-007/LEET_CODE/tree/master/1773-count-items-matching-a-rule) |
+| [1859-sorting-the-sentence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/anu-rag-007/LEET_CODE/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anu-rag-007/LEET_CODE/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/anu-rag-007/LEET_CODE/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
