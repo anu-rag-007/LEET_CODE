@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/anu-rag-007/LEET_CODE/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/anu-rag-007/LEET_CODE/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anu-rag-007/LEET_CODE/tree/master/2469-convert-the-temperature) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/anu-rag-007/LEET_CODE/tree/master/2652-sum-multiples) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/anu-rag-007/LEET_CODE/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/anu-rag-007/LEET_CODE/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
