@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anu-rag-007/LEET_CODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anu-rag-007/LEET_CODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/anu-rag-007/LEET_CODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/anu-rag-007/LEET_CODE/tree/master/0066-plus-one) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anu-rag-007/LEET_CODE/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/anu-rag-007/LEET_CODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anu-rag-007/LEET_CODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
