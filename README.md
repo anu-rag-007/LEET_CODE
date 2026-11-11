@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/anu-rag-007/LEET_CODE/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/anu-rag-007/LEET_CODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/anu-rag-007/LEET_CODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/anu-rag-007/LEET_CODE/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/anu-rag-007/LEET_CODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anu-rag-007/LEET_CODE/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anu-rag-007/LEET_CODE/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anu-rag-007/LEET_CODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
