@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/anu-rag-007/LEET_CODE/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/anu-rag-007/LEET_CODE/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/anu-rag-007/LEET_CODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/anu-rag-007/LEET_CODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anu-rag-007/LEET_CODE/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/anu-rag-007/LEET_CODE/tree/master/0182-duplicate-emails) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/anu-rag-007/LEET_CODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
