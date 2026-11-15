@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anu-rag-007/LEET_CODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/anu-rag-007/LEET_CODE/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/anu-rag-007/LEET_CODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/anu-rag-007/LEET_CODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/anu-rag-007/LEET_CODE/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/anu-rag-007/LEET_CODE/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0929-unique-email-addresses) |
 | [1528-shuffle-string](https://github.com/anu-rag-007/LEET_CODE/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anu-rag-007/LEET_CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
