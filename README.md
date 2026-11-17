@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anu-rag-007/LEET_CODE/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/anu-rag-007/LEET_CODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/anu-rag-007/LEET_CODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anu-rag-007/LEET_CODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anu-rag-007/LEET_CODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/anu-rag-007/LEET_CODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anu-rag-007/LEET_CODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/anu-rag-007/LEET_CODE/tree/master/0832-flipping-an-image) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anu-rag-007/LEET_CODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anu-rag-007/LEET_CODE/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
