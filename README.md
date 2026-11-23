@@ -148,6 +148,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anu-rag-007/LEET_CODE/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/anu-rag-007/LEET_CODE/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/anu-rag-007/LEET_CODE/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/anu-rag-007/LEET_CODE/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/anu-rag-007/LEET_CODE/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/anu-rag-007/LEET_CODE/tree/master/0771-jewels-and-stones) |
