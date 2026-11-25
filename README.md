@@ -24,6 +24,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0929-unique-email-addresses) |
 | [1051-height-checker](https://github.com/anu-rag-007/LEET_CODE/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/anu-rag-007/LEET_CODE/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anu-rag-007/LEET_CODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/anu-rag-007/LEET_CODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -104,6 +105,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anu-rag-007/LEET_CODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/anu-rag-007/LEET_CODE/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/anu-rag-007/LEET_CODE/tree/master/0929-unique-email-addresses) |
+| [1207-unique-number-of-occurrences](https://github.com/anu-rag-007/LEET_CODE/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/anu-rag-007/LEET_CODE/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
