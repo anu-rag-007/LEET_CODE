@@ -44,6 +44,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anu-rag-007/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anu-rag-007/LEET_CODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -273,4 +274,16 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/anu-rag-007/LEET_CODE/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anu-rag-007/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anu-rag-007/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anu-rag-007/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
